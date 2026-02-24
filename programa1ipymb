@@ -1,0 +1,13 @@
+nombre = "Juliana"
+salario_mensual = 10506000
+prima_mensual = 875500
+vacaciones_mensuales = 437750
+cesantias_mensuales= 875500
+subsidio_de_transporte = 0
+
+Total = salario_mensual + prima_mensual + vacaciones_mensuales + cesantias_mensuales
+
+
+
+print ("nombre:", nombre)
+print ("salario mensual:", Total)
